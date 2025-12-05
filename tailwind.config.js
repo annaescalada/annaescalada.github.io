@@ -6,9 +6,9 @@ export default {
   ],
   theme: {
     extend: {
-      animation: {
-        'spin-slow': 'spin 6s linear infinite',
-      }
+      fontFamily: {
+        sans: ['Inter', 'system-ui', 'sans-serif'],
+      },
     },
   },
   plugins: [],
