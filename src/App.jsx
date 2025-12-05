@@ -151,7 +151,7 @@ function App() {
           
           <div className="space-y-4">
             <a
-              href="https://github.com/annaescalada"
+              href="https://github.com/annaescalada/cdk-s3-lambda-auth"
               target="_blank"
               rel="noopener noreferrer"
               className="block group bg-white/60 backdrop-blur-sm rounded-xl p-6 border border-orange-100 hover:shadow-lg hover:border-orange-300 transition-all duration-300"
@@ -169,7 +169,7 @@ function App() {
             </a>
 
             <a
-              href="https://github.com/annaescalada"
+              href="https://github.com/annaescalada/news-aggregator-api"
               target="_blank"
               rel="noopener noreferrer"
               className="block group bg-white/60 backdrop-blur-sm rounded-xl p-6 border border-orange-100 hover:shadow-lg hover:border-orange-300 transition-all duration-300"
@@ -187,7 +187,7 @@ function App() {
             </a>
 
             <a
-              href="https://github.com/annaescalada"
+              href="https://github.com/annaescalada/ai-cv-screener-monorepo"
               target="_blank"
               rel="noopener noreferrer"
               className="block group bg-white/60 backdrop-blur-sm rounded-xl p-6 border border-orange-100 hover:shadow-lg hover:border-orange-300 transition-all duration-300"
@@ -209,7 +209,7 @@ function App() {
         {/* Footer */}
         <div className="text-center pt-12 border-t border-orange-200">
           <p className="text-slate-600 mb-2">
-            Currently in Barcelona, Spain 🇪🇸
+            Currently in Barcelona, Spain
           </p>
           <p className="text-slate-500 text-sm">
             Open to remote opportunities · Let's build something great together
